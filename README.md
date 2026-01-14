@@ -107,6 +107,11 @@ I'm currently exploring new opportunities<br>
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="PostgreSQL" />
       <br>Figma
     </td>
+     </td>
+     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="PostgreSQL" />
+      <br>Postman
+    </td>
 
   
    
