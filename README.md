@@ -95,14 +95,18 @@ I'm currently exploring new opportunities<br>
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
+
+    <!-- Figma -->
+  <td align="center" width="96">
       <svg width="48" height="48" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
         <rect width="256" height="256" rx="60" fill="#242938"/>
         <path fill="#0ACF83" d="M94.3467 228C112.747 228 127.68 213.067 127.68 194.667V161.333H94.3467C75.9467 161.333 61.0133 176.267 61.0133 194.667C61.0133 213.067 75.9467 228 94.3467 228Z"/>
       </svg>
       <br>Figma
     </td>
-    <td align="center" width="96">
+
+    <!-- Gradient SVG -->
+  <td align="center" width="96">
       <svg width="48" height="48" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
         <rect width="256" height="256" rx="60" fill="#242938"/>
         <path d="M172.787 97.4052L176.48 72.1699L195.389 91.0834L175.724 99.4499Z" fill="url(#g1)"/>
@@ -115,7 +119,9 @@ I'm currently exploring new opportunities<br>
       </svg>
       <br>Tool
     </td>
-    <td align="center" width="96">
+
+    <!-- New Blue SVG -->
+  <td align="center" width="96">
       <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" fill="none">
         <rect width="256" height="256" rx="60" fill="#677EEB"/>
         <path fill="#F7FAFC" fill-rule="evenodd" clip-rule="evenodd"
@@ -126,4 +132,5 @@ I'm currently exploring new opportunities<br>
   </tr>
 </table>
 </div>
+
 
