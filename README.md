@@ -1,3 +1,6 @@
+### Hi there 👋
+[![](https://github.com/shubh-Rocks/shubh-Rocks/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
+
 # 💫 About Me:
 I'm currently exploring new opportunities<br>
 
