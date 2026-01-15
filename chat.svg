@@ -320,7 +320,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="380" height="50.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">  Aspiring Software Devloper   </text>    
+    <text x="15" y="27">Aks University thrixx Hackathon winner 2024  </text>    
   </g>
 
 
@@ -345,15 +345,9 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="440" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Aks University thrixx Hackathon winner 2024 </text>    
+    <text x="15" y="27"> Aspiring Software Devloper </text>    
   </g> 
 
 
 
-
-  <!-- Have a great... -->
-  <g transform="translate(10, 336)" class="msg-6">
-    <rect width="650" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> please reach out via <a xlink:href="https://twitter.com/deep_algo">https://www.linkedin.com/in/shubh-mishra001</a> or email</text>
-  </g>
 </svg>
