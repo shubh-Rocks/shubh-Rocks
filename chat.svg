@@ -294,9 +294,9 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Frontend Devloper  </text>
-    <text x="15" y="50">Crafting modern web experiences </text>
+    <rect width="420" height="66.1302" rx="18.0355" gap="3" class="bubble" />
+    <text x="15" y="27">Frontend Developer  </text>
+    <text x="15" y="50">Crafting modern web experiences... </text>
   </g>
 
   <!-- typing 3 -->
@@ -319,8 +319,8 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="380" height="50.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Aks University thrixx Hackathon winner 2024  </text>    
+    <rect width="480" height="50.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Aks University, thrixx Hackathon winner 2024  </text>    
   </g>
 
 
@@ -344,8 +344,8 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="440" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Aspiring Software Devloper </text>    
+    <rect width="350" height="42.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27"> Aspiring Software Developer </text>    
   </g> 
 
 
