@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://github.com/shubh-Rocks/shubh-Rocks/blob/main/chat.svg)]
+![](https://github.com/shubh-Rocks/shubh-Rocks/blob/main/chat.svg)
 
 # 💫 About Me:
 I'm currently exploring new opportunities<br>
