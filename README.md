@@ -8,7 +8,7 @@ I'm currently exploring new opportunities<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubh-mishra001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smishra64310@gmail.com) 
 
-# 💻 Tech Stack:
+## 🛠️ Tech Stack 
 
 **Languages**  
 
