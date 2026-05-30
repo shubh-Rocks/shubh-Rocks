@@ -295,7 +295,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="420" height="66.1302" rx="18.0355" gap="3" class="bubble" />
-    <text x="15" y="27">Software devlopment Engineer  </text>
+    <text x="15" y="27">Software Engineer  </text>
     <text x="15" y="50">Crafting modern web experiences... </text>
   </g>
 
@@ -345,7 +345,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="350" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"> Aspiring Software Developer </text>    
+    <text x="15" y="27"> Open to work </text>    
   </g> 
 
 
