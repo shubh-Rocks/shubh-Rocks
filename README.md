@@ -7,7 +7,7 @@
 
 🚀 software Developer focused on building clean, scalable, and user-friendly web applications  
 🛠️ Comfortable across the stack — React/Next.js on the front-end, Node.js/Express on the back-end  
-🏆 Participated in 3x hackathons — won 1st place in one of them.
+🏆 Participated in 3x hackathons — won 1st place in one of them
 ☁️ Experienced with cloud & DevOps tools — AWS, Docker, Vercel & Netlify — for shipping production-ready apps  
 📫 Open to internships, freelance work & full-time opportunities — let's connect!
 
