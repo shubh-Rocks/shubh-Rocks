@@ -5,12 +5,10 @@
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%94%A7+I+build+it.+%E2%98%81%EF%B8%8F+I+deploy+it.+%F0%9F%8C%8D+I+open-source+it.)
 
-🚀 Full-Stack Developer focused on building clean, scalable, and user-friendly web applications  
-🛠️ Comfortable across the stack — React/Next.js on the front-end, Node.js/Express/FastAPI on the back-end  
-🐍 Strong foundation in JavaScript, TypeScript & Python  
+🚀 software Developer focused on building clean, scalable, and user-friendly web applications  
+🛠️ Comfortable across the stack — React/Next.js on the front-end, Node.js/Express on the back-end  
+🏆 Participated in 3x hackathons — won 1st place in one of them.
 ☁️ Experienced with cloud & DevOps tools — AWS, Docker, Vercel & Netlify — for shipping production-ready apps  
-🗄️ Hands-on with MongoDB, PostgreSQL, Prisma & Supabase for designing and managing databases  
-🌱 Constantly learning new tools and best practices, and always open to collaborating on impactful projects  
 📫 Open to internships, freelance work & full-time opportunities — let's connect!
 
 </div>
