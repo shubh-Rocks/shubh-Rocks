@@ -69,7 +69,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=shubh-Rocks&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=79C0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=30363D" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=shubh-Rocks&hide_border=true&background=0D1117&ring=79C0FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=79C0FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&border=30363D&v=2" width="70%" />
 
 <br/><br/>
 
